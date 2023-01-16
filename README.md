@@ -1,5 +1,8 @@
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) [![Python](https://camo.githubusercontent.com/44da37f0f02bf104f0650fa5f2c754ed3f6166066c9210f31bacb9e63d60736e/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f70796261646765732e737667)](https://www.python.org/downloads/)
-**Game of life C++**
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
+# **Game of life C++**
 
 > Author : CZARKOWSKI Matthieu
 
@@ -16,7 +19,7 @@ Black cell : alive
 
 White cell : dead
 
-## **The prerequisites 📍**
+## **Requirements 📍**
 
 ### Language 📙
 
