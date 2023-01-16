@@ -13,6 +13,7 @@ The game of life is a cellular automaton evolving on a grid (of theoretically in
 <img src="./img/1.JPG">
 
 Black cell : alive
+
 White cell : dead
 
 ## **The prerequisites 📍**
