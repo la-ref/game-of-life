@@ -6,7 +6,7 @@
 
 ## **The project 📢**
 
-The project aims to realize the game of life under PyQt with the MVC architecture.
+The project aims to realize the game of life under Qt in C++ with a 1d array
 
 The game of life is a cellular automaton evolving on a grid (of theoretically infinite size) composed of square boxes called cells which have a binary state (1 for alive and 0 for dead). The cells evolve in time according to their neighborhood (each cell has 8 neighboring cells).
 
