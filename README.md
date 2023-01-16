@@ -20,7 +20,7 @@ This project runs under c++, I advise you to install gcc for unix machines or mi
 
 ### Libraries 📚
 
-> #### 1. Qt 
+#### 1. Qt 
 
 **Qt_** is a library that allows you to create interfaces by offering different tools.
 
@@ -33,7 +33,7 @@ First of all download or forker the whole project to have all the files and have
 
 ### Launch the program ▶️
 
-> #### 1. With qt design studio 👨💻
+#### 1. With qt design studio 💻
 
 To use the program from the code, you need to run (start) the **main.cpp** file through a code editor like VSC.
 
